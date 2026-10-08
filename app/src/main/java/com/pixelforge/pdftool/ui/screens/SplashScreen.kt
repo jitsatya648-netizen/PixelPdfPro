@@ -1,5 +1,5 @@
 package com.pixelforge.pdftool.ui.screens
-
+import androidx.compose.animation.core.RepeatMode
 import androidx.compose.animation.core.Animatable
 import androidx.compose.animation.core.FastOutSlowInEasing
 import androidx.compose.animation.core.LinearEasing
